@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "argon2": "*",
+    "express": "*",
+    "http2-express-bridge": "*",
+    "punycode": "^2.3.0",
+    "sqlite": "*",
+    "sqlite3": "*",
+    "ws": "*"
+  }
+}
