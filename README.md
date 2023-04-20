@@ -4,6 +4,8 @@ This is the Identity module for [**NEMP Server**](https://github.com/libersoft-o
 
 This module specifies the e-mail address format and controls user accounts and aliases.
 
+If you just want to get your free NEMP mailbox hosted on our server, please navigate to: **https://nemp.io**
+
 ## Installation
 
 - Open the NEMP Web Admin on your server
