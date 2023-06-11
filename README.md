@@ -1,5 +1,7 @@
 # NEMP Server Identity module
 
+[![Created Badge](https://badges.pufler.dev/created/libersoft-org/nemp-server-module-identity)](https://badges.pufler.dev) [![Updated Badge](https://badges.pufler.dev/updated/libersoft-org/nemp-server-module-identity)](https://badges.pufler.dev) [![Visits Badge](https://badges.pufler.dev/visits/libersoft-org/nemp-server-module-identity)](https://badges.pufler.dev)
+
 This is the Identity module for [**NEMP Server**](https://github.com/libersoft-org/nemp-server/).
 
 This module specifies the e-mail address format and controls user accounts and aliases.
