@@ -1,18 +1,18 @@
-# NEMP Server Identity module
+# Yellow Server NEMP Identity module
 
-[![Created Badge](https://badges.pufler.dev/created/libersoft-org/nemp-server-module-identity)](https://badges.pufler.dev) [![Updated Badge](https://badges.pufler.dev/updated/libersoft-org/nemp-server-module-identity)](https://badges.pufler.dev) [![Visits Badge](https://badges.pufler.dev/visits/libersoft-org/nemp-server-module-identity)](https://badges.pufler.dev)
+[![Created Badge](https://badges.pufler.dev/created/libersoft-org/yellow-server-module-identity)](https://badges.pufler.dev) [![Updated Badge](https://badges.pufler.dev/updated/libersoft-org/yellow-server-module-identity)](https://badges.pufler.dev) [![Visits Badge](https://badges.pufler.dev/visits/libersoft-org/yellow-server-module-identity)](https://badges.pufler.dev)
 
-This is the Identity module for [**NEMP Server**](https://github.com/libersoft-org/nemp-server/).
+This is the NEMP Identity module for [**Yellow Server**](https://github.com/libersoft-org/yellow-server/).
 
 This module specifies the e-mail address format and controls user accounts and aliases.
 
-If you just want to get your free NEMP mailbox hosted on our server, please navigate to:
+If you just want to get your free [**Yellow**](https://yellow.libersoft.org) account hosted on our server, please navigate to:
 
-[![NEMP.io](https://raw.githubusercontent.com/libersoft-org/nemp-documentation/main/logo.png)](https://nemp.io)
+[![YellowNet.io](https://raw.githubusercontent.com/libersoft-org/odtp-documentation/main/logo.png)](https://yellownet.io)
 
 ## Installation
 
-- Open the NEMP Web Admin on your server
+- Open the Yellow Web Admin on your server
 - Navigate to Modules section
 - Find this module
 - Click on Install button
@@ -33,4 +33,4 @@ Thank you for being a part of our projects' success!
 
 ## Star history
 
-[![Star History Chart](https://api.star-history.com/svg?repos=libersoft-org/nemp-server-module-identity&type=Date)](https://star-history.com/#libersoft-org/nemp-server-module-identity&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=libersoft-org/yellow-server-module-identity&type=Date)](https://star-history.com/#libersoft-org/yellow-server-module-identity&Date)
