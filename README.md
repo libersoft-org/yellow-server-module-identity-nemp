@@ -1,6 +1,6 @@
 # Yellow Server - NEMP Identity module
 
-[![Created Badge](https://badges.pufler.dev/created/libersoft-org/yellow-server-module-identity)](https://badges.pufler.dev) [![Updated Badge](https://badges.pufler.dev/updated/libersoft-org/yellow-server-module-identity)](https://badges.pufler.dev) [![Visits Badge](https://badges.pufler.dev/visits/libersoft-org/yellow-server-module-identity)](https://badges.pufler.dev)
+[![Created Badge](https://badges.pufler.dev/created/libersoft-org/yellow-server-module-identity-nemp)](https://badges.pufler.dev) [![Updated Badge](https://badges.pufler.dev/updated/libersoft-org/yellow-server-module-identity-nemp)](https://badges.pufler.dev) [![Visits Badge](https://badges.pufler.dev/visits/libersoft-org/yellow-server-module-identity-nemp)](https://badges.pufler.dev)
 
 This is the NEMP Identity module for [**Yellow Server**](https://github.com/libersoft-org/yellow-server/).
 
@@ -33,4 +33,4 @@ Thank you for being a part of our projects' success!
 
 ## Star history
 
-[![Star History Chart](https://api.star-history.com/svg?repos=libersoft-org/yellow-server-module-identity&type=Date)](https://star-history.com/#libersoft-org/yellow-server-module-identity&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=libersoft-org/yellow-server-module-identity-nemp&type=Date)](https://star-history.com/#libersoft-org/yellow-server-module-identity-nemp&Date)
