@@ -1,4 +1,4 @@
-# Yellow Server - NEMP Identity module
+# Yellow Server - NEMP Identity Module
 
 [![Created Badge](https://badges.pufler.dev/created/libersoft-org/yellow-server-module-identity-nemp)](https://badges.pufler.dev) [![Updated Badge](https://badges.pufler.dev/updated/libersoft-org/yellow-server-module-identity-nemp)](https://badges.pufler.dev) [![Visits Badge](https://badges.pufler.dev/visits/libersoft-org/yellow-server-module-identity-nemp)](https://badges.pufler.dev)
 
